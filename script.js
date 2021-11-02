@@ -1,5 +1,7 @@
 // Assignment code here
-
+function getRandomLower() {
+  
+}
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
