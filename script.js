@@ -1,8 +1,10 @@
 // Assignment code here
 
 function generatePassword() {
-
-  return "Password goes here";
+  
+  var passwordlegnth = prompt("How many characters would you like your password to have?");
+  alert(passwordlegnth);
+  return "The best password";
 }
 
 // Get references to the #generate element
